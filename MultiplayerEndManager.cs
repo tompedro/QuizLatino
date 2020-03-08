@@ -13,6 +13,6 @@ public class MultiplayerEndManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        text.text = PlayerPrefs.GetInt("Status").ToString();
+        text.text = PlayerPrefs.GetInt("State").ToString();
     }
 }
