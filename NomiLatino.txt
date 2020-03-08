@@ -1,0 +1,5 @@
+imperator 
+dux 
+sacerdos 
+domus 
+equus 

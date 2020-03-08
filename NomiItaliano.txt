@@ -1,0 +1,5 @@
+imperatore
+comandante
+sacerdote
+casa
+cavallo
